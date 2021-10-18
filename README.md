@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federerer&count_private=true&line_height=40&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federerer&count_private=true&line_height=26&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federerer&exclude_repo=stm32usb)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on [LiveSPICE](https://github.com/dsharlet/LiveSPICE), a SPICE-like circuit simulation tool for live audio signals.
